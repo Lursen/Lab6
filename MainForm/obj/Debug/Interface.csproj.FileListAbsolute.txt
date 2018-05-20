@@ -1,0 +1,13 @@
+E:\ТехПрог\Project\MainForm\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+E:\ТехПрог\Project\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\ТехПрог\Project\MainForm\obj\Debug\Interface.csproj.GenerateResource.Cache
+E:\ТехПрог\Project\MainForm\bin\Debug\MainForm.exe.config
+E:\ТехПрог\Project\MainForm\bin\Debug\MainForm.exe
+E:\ТехПрог\Project\MainForm\bin\Debug\MainForm.pdb
+E:\ТехПрог\Project\MainForm\bin\Debug\Project.exe
+E:\ТехПрог\Project\MainForm\bin\Debug\Project.pdb
+E:\ТехПрог\Project\MainForm\obj\Debug\MainForm.exe
+E:\ТехПрог\Project\MainForm\obj\Debug\MainForm.pdb
+E:\ТехПрог\Project\MainForm\obj\Debug\Interface.AddForm.resources
+E:\ТехПрог\Project\MainForm\obj\Debug\Interface.EditForm.resources
+E:\ТехПрог\Project\MainForm\obj\Debug\Interface.MainForm.resources

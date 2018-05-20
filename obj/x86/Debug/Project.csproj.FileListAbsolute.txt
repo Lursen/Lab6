@@ -1,0 +1,5 @@
+E:\ТехПрог\Project\Repository\Lab6\bin\Debug\Project.exe
+E:\ТехПрог\Project\Repository\Lab6\bin\Debug\Project.pdb
+E:\ТехПрог\Project\Repository\Lab6\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+E:\ТехПрог\Project\Repository\Lab6\obj\x86\Debug\Project.exe
+E:\ТехПрог\Project\Repository\Lab6\obj\x86\Debug\Project.pdb
